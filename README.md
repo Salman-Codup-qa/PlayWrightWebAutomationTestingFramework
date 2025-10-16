@@ -2,8 +2,8 @@
 
 A comprehensive Python-based web automation testing framework built with Playwright and Pytest, featuring parallel execution, Allure reporting, and CI/CD integration.
 
-[![Playwright Tests](https://github.com/HassanAbbas7357/PlayWrightWebAutomationTestingFramework/actions/workflows/playwright.yml/badge.svg)](https://github.com/HassanAbbas7357/PlayWrightWebAutomationTestingFramework/actions)
-[![Test Report](https://img.shields.io/badge/Allure-Report-blue)](https://hassanabbas7357.github.io/PlayWrightWebAutomationTestingFramework/)
+[![Playwright Tests](https://github.com/Salman-Codup-qa/PlayWrightWebAutomationTestingFramework/actions/workflows/playwright.yml/badge.svg)](https://github.com/Salman-Codup-qa/PlayWrightWebAutomationTestingFramework/actions)
+[![Test Report](https://img.shields.io/badge/Allure-Report-blue)](https://Salman-Codup-qa.github.io/PlayWrightWebAutomationTestingFramework/)
 
 ## 📋 Table of Contents
 
@@ -43,7 +43,7 @@ The easiest way to set up the framework on Windows:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HassanAbbas7357/PlayWrightWebAutomationTestingFramework.git
+   git clone https://github.com/Salman-Codup-qa/PlayWrightWebAutomationTestingFramework.git
    cd PlayWrightWebAutomationTestingFramework
    ```
 
@@ -66,7 +66,7 @@ The easiest way to set up the framework on Windows:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/HassanAbbas7357/PlayWrightWebAutomationTestingFramework.git
+git clone https://github.com/Salman-Codup-qa/PlayWrightWebAutomationTestingFramework.git
 cd PlayWrightWebAutomationTestingFramework
 
 # 2. Create virtual environment
@@ -86,7 +86,7 @@ python -m playwright install
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/HassanAbbas7357/PlayWrightWebAutomationTestingFramework.git
+git clone https://github.com/Salman-Codup-qa/PlayWrightWebAutomationTestingFramework.git
 cd PlayWrightWebAutomationTestingFramework
 
 # 2. Create virtual environment
@@ -178,7 +178,7 @@ pytest -n 4 --alluredir=allure-results -v -s
 ### View Online Reports
 
 View the latest test execution report on GitHub Pages:
-🔗 [Test Report](https://hassanabbas7357.github.io/PlayWrightWebAutomationTestingFramework/)
+🔗 [Test Report](https://Salman-Codup-qa.github.io/PlayWrightWebAutomationTestingFramework/)
 
 Reports are automatically generated and published after each test run in CI/CD pipeline.
 
@@ -238,7 +238,7 @@ This framework is integrated with **GitHub Actions** for automated testing:
 - **Automatic deployment** to GitHub Pages
 - **Cross-browser testing** (Chromium, Firefox, WebKit)
 
-View workflow runs: [Actions](https://github.com/HassanAbbas7357/PlayWrightWebAutomationTestingFramework/actions)
+View workflow runs: [Actions](https://github.com/Salman-Codup-qa/PlayWrightWebAutomationTestingFramework/actions)
 
 ## 🛠️ Configuration
 
@@ -287,8 +287,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Hassan Abbas**
-- GitHub: [@HassanAbbas7357](https://github.com/HassanAbbas7357)
+**Salman Saleem**
+- GitHub: [@Salman-Codup-qa](https://github.com/Salman-Codup-qa)
 
 ## 🙏 Acknowledgments
 
@@ -300,6 +300,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ **Star this repository** if you find it helpful!
 
-📢 **Report Issues** on the [Issues](https://github.com/HassanAbbas7357/PlayWrightWebAutomationTestingFramework/issues) page.
+📢 **Report Issues** on the [Issues](https://github.com/Salman-Codup-qa/PlayWrightWebAutomationTestingFramework/issues) page.
 
 🔔 **Watch** this repository to get notifications about updates.
