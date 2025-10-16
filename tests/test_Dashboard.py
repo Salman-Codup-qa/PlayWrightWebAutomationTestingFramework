@@ -96,5 +96,6 @@ class TestDashboard:
     @pytest.mark.dashboard
     @pytest.mark.regression
     def test_numbers(self, auth_page: BasePage):
+        #salman me
         assert 2 == 2, "2 should equal 2"
         auth_page.take_screenshot("Numberes.jpg",full_page=True,attach=True)
