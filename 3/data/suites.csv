@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Simple test to verify that 2 equals 2.","169","Verify 2 == 2","tests","Thu Oct 16 12:44:53 UTC 2025","passed","Thu Oct 16 12:44:53 UTC 2025","TestDashboard","test_Dashboard","",""
+"Ensures the dashboard is accessible after performing login with email.","663","Verify Dashboard access after login","tests","Thu Oct 16 12:44:44 UTC 2025","passed","Thu Oct 16 12:44:45 UTC 2025","TestDashboard","test_Dashboard","",""
+"Ensures all navigation bar links are present and clickable.","6265","Verify Navigation Bar Links","tests","Thu Oct 16 12:44:46 UTC 2025","passed","Thu Oct 16 12:44:52 UTC 2025","TestDashboard","test_Dashboard","",""
