@@ -1,0 +1,12 @@
+pytest>=7.0
+playwright>=1.35.0
+pytest-playwright>=0.3.0
+allure-pytest>=2.11.0
+pytest-xdist>=3.0.0            # optional: parallel runs
+pytest-cov>=4.0.0             # optional: coverage
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2 
+google-api-python-client
+pytest-dotenv
+playwright-stealth
