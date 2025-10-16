@@ -238,7 +238,7 @@ def create_auth_state(pytestconfig, playwright):
 
 
     browser = getattr(playwright, browser_name).launch(
-        headless=True,
+        headless=False,
         args=["--start-maximized"]
     )
     context = browser.new_context(
